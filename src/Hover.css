@@ -1,0 +1,14 @@
+
+.noicehvr{
+    background-color:#000;
+    transition:0.2s;
+    color:#fff;
+    display:box;
+    flex:1;
+    margin:0;
+}
+
+.noicehvr:hover{
+    background-color:#fff;
+    color:#000;
+}
