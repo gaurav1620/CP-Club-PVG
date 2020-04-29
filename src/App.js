@@ -34,7 +34,7 @@ class App extends React.Component {
                     <div onClick={()=>this.changeMenu(3)} className='noicehvr'><p>Info</p></div>
                 </div>
 
-                {this.state.index == 1?<Home/>:this.state.index == 2?<Blog/>:<Info/>}
+                {this.state.index === 1?<Home/>:this.state.index === 2?<Blog/>:<Info/>}
 
 
             </div>
