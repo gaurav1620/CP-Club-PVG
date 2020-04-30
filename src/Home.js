@@ -22,7 +22,7 @@ Online judges are online environments in which testing takes place. Online judge
                             <h4>Improves understanding of DS and Algorithms</h4>
                             <p>
 
-                                Maybe you have implemented a lot of data structures and algorithms in college or classes , but you have always worked with small constrains.But when the data becomes large we need to use various other (more efficient ) algorithms to limit the cpu time and the memory used.For eg. if you want to find Fibonacci number for n = 100 ,it will takes more than 56000 years to compute it using the standard recursive algorithm, however by using simple dynamic programming you can prevent the exponential useless calls to the function by storing previous results which will give you the answer in a few micro seconds.
+                                Maybe you have implemented a lot of data structures and algorithms in college or classes , but you have always worked with small constrains.But when the data becomes large we need to use various other (more efficient ) algorithms to limit the cpu time and the memory used.For eg. if you want to find Fibonacci number for n = 100 ,it takes more than 56000 years to compute it using the standard recursive algorithm, however by using simple dynamic programming you can prevent the exponential useless calls to the function by storing previous results which will give you the answer in a few micro seconds.
                             </p>
                         </li>
                         <li>
