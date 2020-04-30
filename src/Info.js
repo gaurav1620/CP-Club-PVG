@@ -7,7 +7,7 @@ class Info extends React.Component {
             <div className='simple-block'>
                 <h1>Best websites to start CP</h1> 
                 <div className='websites'>
-                    <h3><a target="_blank" href="https://codechef.com">Codechef </a></h3>
+                    <h3><az target="_blank" href="https://codechef.com">Codechef </az></h3>
                     <p >Codechef is one of the best place to start as a beginner because 
                         codechef has this unique kind of contest (Long challenge) which goes on for 10 days.
                         This is quite helpful for beginners as they are able to learn new things 
@@ -17,7 +17,7 @@ class Info extends React.Component {
                     </p>
                 </div>
                 <div className='websites'>
-                    <h3><a target="_blank" href="https://hackerrank.com">Hackerrank </a></h3>
+                    <h3><az target="_blank" href="https://hackerrank.com">Hackerrank </az></h3>
                     <p >
                         Hackerrank is another good beginner friendly place to start competetive programming.
                         It has a variety of tutorials on various programming languages and on  
@@ -29,7 +29,7 @@ class Info extends React.Component {
                     </p>
                 </div>
                 <div className='websites'>
-                    <h3><a target="_blank" href="https://codeforces.com">Codeforces </a></h3>
+                    <h3><az target="_blank" href="https://codeforces.com">Codeforces </az></h3>
                     <p >
                         Codeforces is the best website once you are not total beginner in CP .Codeforces generally has contests every 
                         alternate days (on average), which are short contests of 2 or 2.5 hours.The best thing about Codeforces 
@@ -39,7 +39,7 @@ class Info extends React.Component {
                     </p>
                 </div>
                 <div className='websites'>
-                    <h3><a target="_blank" href="https://spoj.com">SPOJ </a></h3>
+                    <h3><az target="_blank" href="https://spoj.com">SPOJ </az></h3>
                     <p >
                         SPOJ (Sphere Online Judge) is what you can call the library of competetive programming questions.It contains 
                         problems from previous contests of various websites and also has the problems from Google Kickstart and
@@ -48,7 +48,7 @@ class Info extends React.Component {
                     </p>
                 </div>
                 <div className='websites'>
-                    <h3><a target="_blank" href="https://hackerearth.com">HackerEarth</a></h3>
+                    <h3><az target="_blank" href="https://hackerearth.com">HackerEarth</az></h3>
                     <p >
                         HackerEarth hosts regular contests as well as has various hackathons organised by various companies.
                         I haven't used HackerEarth much so I dont have much info but they have one of the best 
