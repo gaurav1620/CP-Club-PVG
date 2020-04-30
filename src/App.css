@@ -107,8 +107,12 @@
   color: #61dafb;
 }
 
+a {
+  text-decoration: none;
+} 
+
 az {
-  color :#00bfa5
+  color :#00bfa5;
 } 
 
 @keyframes App-logo-spin {
