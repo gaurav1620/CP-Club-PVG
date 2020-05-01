@@ -39,7 +39,7 @@ class App extends React.Component {
                 <div className='footer'>
 
                     <div style={{display:'flex',alignItems:'center',flexDirection:'column'}}>
-                        <h3>Github Repository Link</h3>
+                        <h3>Socials</h3>
                         <a href='https://github.com/gaurav1620/cp-club-pvg' target='_blank'><img src='github-11-xxl.png' width='50px' height='50px'/></a>
                     </div>
                 </div>
