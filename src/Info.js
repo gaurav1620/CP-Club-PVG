@@ -58,15 +58,16 @@ class Info extends React.Component {
                 </div>
 
                 
-                <div  style={{flex:'1',display:'flex',flexDirection:'column',justifyContent:'flex-start',paddingLeft:'50px'}}>
-                    <h1 style={{display:'flex',flexDirection:'row',justifyContent:'flex-start'}} >
-                        Download recommended books : 
-                    </h1> 
+                <div  >
+                    <h2  >
+                        Download recommended books 
+                    </h2> 
                     <ul>
-                        <li style={{flex:'1',display:'flex',justifyContent:'flex-start'}}>
-                            <a href='Data Structures and Algorithms - Narasimha Karumanchi.pdf' download>Data Structures and Algorithms by Narsimha Karamachi</a>
+                        <li >
+                            <a href='Data Structures and Algorithms - Narasimha Karumanchi.pdf' download>
+                                DS Algo by Narsimha Karamachi</a>
                         </li>
-                        <li style={{flex:'1',display:'flex',justifyContent:'flex-start'}}>
+                        <li >
                             <a href='Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf' download>Cracking the Coding Interview</a>
                         </li>
                     </ul>

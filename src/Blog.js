@@ -5,7 +5,7 @@ class Blog extends React.Component {
     render(){
         return (
             <div className='simple-block'>
-                <h4>Blogs are coming soon..</h4>
+                <h2 style={{paddingBottom:'100%'}}>Blogs are coming soon..</h2>
             </div>
         );
     }
