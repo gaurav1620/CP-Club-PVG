@@ -64,10 +64,10 @@ class Info extends React.Component {
                     </h1> 
                     <ul>
                         <li style={{flex:'1',display:'flex',justifyContent:'flex-start'}}>
-                            <a href='Data Structures and Algorithms - Narasimha Karumanchi.pdf'>Data Structures and Algorithms by Narsimha Karamachi</a>
+                            <a href='Data Structures and Algorithms - Narasimha Karumanchi.pdf' download>Data Structures and Algorithms by Narsimha Karamachi</a>
                         </li>
                         <li style={{flex:'1',display:'flex',justifyContent:'flex-start'}}>
-                            <a href='Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf'>Cracking the Coding Interview</a>
+                            <a href='Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf' download>Cracking the Coding Interview</a>
                         </li>
                     </ul>
                 </div>
