@@ -56,6 +56,21 @@ class Info extends React.Component {
                         wherein there are step by step tutorials and guides to basic algorithms and then problems based on them.
                     </p>
                 </div>
+
+                
+                <div  style={{flex:'1',display:'flex',flexDirection:'column',justifyContent:'flex-start',paddingLeft:'50px'}}>
+                    <h1 style={{display:'flex',flexDirection:'row',justifyContent:'flex-start'}} >
+                        Download recommended books : 
+                    </h1> 
+                    <ul>
+                        <li style={{flex:'1',display:'flex',justifyContent:'flex-start'}}>
+                            <a href='Data Structures and Algorithms - Narasimha Karumanchi.pdf'>Data Structures and Algorithms by Narsimha Karamachi</a>
+                        </li>
+                        <li style={{flex:'1',display:'flex',justifyContent:'flex-start'}}>
+                            <a href='Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf'>Cracking the Coding Interview</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
         );
         
