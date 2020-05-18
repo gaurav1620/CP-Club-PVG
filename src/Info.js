@@ -64,11 +64,14 @@ class Info extends React.Component {
                     </h2> 
                     <ul>
                         <li >
-                            <a href='Data Structures and Algorithms - Narasimha Karumanchi.pdf' download>
+                            <a href='DSA.pdf' download>
                                 DS Algo by Narsimha Karamachi</a>
                         </li>
                         <li >
-                            <a href='Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf' download>Cracking the Coding Interview</a>
+                            <a href='CTCI.pdf' download>Cracking the Coding Interview</a>
+                        </li>
+                        <li >
+                            <a href='EOPI.pdf' download>Elements of Programming Interview</a>
                         </li>
                     </ul>
                 </div>
