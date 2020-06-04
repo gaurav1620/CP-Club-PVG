@@ -22,7 +22,7 @@ Online judges are online environments in which testing takes place. Online judge
                             <h4>Improves understanding of DS and Algorithms</h4>
                             <p>
 
-                                Maybe you have implemented a lot of data structures and algorithms in college or classes , but you have always worked with small constrains.But when the data becomes large we need to use various other (more efficient ) algorithms to limit the cpu time and the memory used.For eg. if you want to find Fibonacci number for n = 100 ,it takes more than 56000 years to compute it using the standard recursive algorithm, however by using simple dynamic programming you can prevent the exponential useless calls to the function by storing previous results which will give you the answer in a few micro seconds.
+                                You may have implemented a lot of data structures and algorithms in college or classes, but you have always worked with small constraints. But when the data becomes large, we need to use various other (more efficient ) algorithms to limit the CPU time and the memory used. E.g., if you want to find the Fibonacci number for n = 100, it takes more than 56000 years to compute it using the standard recursive algorithm, however by using simple dynamic programming you can prevent the exponential useless calls to the function by storing previous results which will give you the answer in a few microseconds.
                             </p>
                         </li>
                         <li>
@@ -33,8 +33,8 @@ Online judges are online environments in which testing takes place. Online judge
                             </p>
                         </li>
                         <li>
-                            <h4>Speeds up coding</h4>
-                            <p>With an improved logic, you will be able to solve problems faster, decide faster, and put it into code faster, without going to and fro thinking about the best approach to code it.Bonus benefit - There are many 2-3 hrs contest for Competitive Programming, so if you are in a habit of giving those, you must have increased your typing speed too.</p>
+                            <h4>Speeds coding up</h4>
+                            <p>With an improved logic, you will be able to solve problems faster, decide faster, and put it into code faster without going to and fro thinking about the best approach to code it. Bonus benefit - There are many 2-3 hrs contest for Competitive Programming, so if you are in the habit of giving those, you must have increased your typing speed.</p>
                         </li>
                         <li>
                             <h4>You will start writing the best possible code in every situation </h4>
@@ -43,8 +43,8 @@ If you are doing CP in these languages (which you should), you will regularly ru
                         </li>
 
                         <li>
-                            <h4>And last but not the least, CP helps you crack hiring coding rounds </h4>
-                            <p>Coding rounds have always used Competitive Programming as a test of the candidate's potential. I don't 100% agree with it but you can't do anything about it. So practicing CP here will always increase your chances of getting selected.</p>
+                            <h4>And last but not least, CP helps you crack hiring coding rounds </h4>
+                            <p>Coding rounds have always used Competitive Programming as a test of the candidate's potential. I don't 100% agree with it, but you can't do anything about it. So practicing CP here will always increase your chances of getting selected.</p>
                         </li>
 
                     </ul>
