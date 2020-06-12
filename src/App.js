@@ -40,7 +40,16 @@ class App extends React.Component {
 
                     <div style={{display:'flex',alignItems:'center',flexDirection:'column'}}>
                         <h3>Socials</h3>
-                        <a href='https://github.com/gaurav1620/cp-club-pvg' target='_blank'><img src='github-11-xxl.png' width='50px' height='50px'/></a>
+                        <div style={{display: 'inlineBlock'}}>
+                            <a  style={{marginRight:'100px'}} href='https://github.com/gaurav1620/cp-club-pvg' 
+                                target='_blank'>
+                                <img src='github-11-xxl.png' width='50px' height='50px'/>
+                            </a>
+                            <a href='https://chat.whatsapp.com/BhMFqfAfRuLEGN90q3BQCD' 
+                                target='_blank'>
+                                <img src='whatsapp-xxl.png' width='50px' height='50px'/>
+                            </a>
+                        </div>
                     </div>
                 </div>
 
