@@ -7,7 +7,7 @@ class Home extends React.Component {
             <div className='simple-block'>
                 <div className='blog' >
                     <h3 style={{textAlign:'center'}}>What is Competitive Programming ? </h3>
-                    <p>The aim of compititive programming is to write source code of computer programs which are able to solve given problems. A vast majority of problems appearing in programming contests are mathematical or logical in nature. Typical such tasks belong to one of the following categories: combinatorics, number theory, graph theory, geometry, string analysis and data structures. Problems related to artificial intelligence are also popular in certain competitions.
+                    <p style={{lineHeight: 1.4}}>The aim of compititive programming is to write source code of computer programs which are able to solve given problems. A vast majority of problems appearing in programming contests are mathematical or logical in nature. Typical such tasks belong to one of the following categories: combinatorics, number theory, graph theory, geometry, string analysis and data structures. Problems related to artificial intelligence are also popular in certain competitions.
 
 Irrespective of the problem category, the process of solving a problem can be divided into two broad steps: constructing an efficient algorithm, and implementing the algorithm in a suitable programming language (the set of programming languages allowed varies from contest to contest). These are the two most commonly tested skills in programming competitions.
 
