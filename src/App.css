@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&display=swap');
+
 .App {
 }
 
@@ -23,12 +26,14 @@
 }
 
 .App-header {
-  background-color: #00bfa5;
+  background-color: transparent;
   display: flex;
   align-items:center;
   justify-content:center;
   font-size: calc(10px + 2vmin);
-  color: #000;
+  color: #434343;
+  font-family: 'Raleway', sans-serif;
+  box-shadow: 10px 0 20px #ababab;
 }
 .menu{
     width : 100%;
@@ -37,6 +42,7 @@
     flex-direction:row;
     margin:auto;
     text-align:center;
+    justify-content: center;
 }
 .sticky{
     position: fixed;
@@ -49,18 +55,34 @@
 }
 
 .noicehvr{
-    background-color:#000;
+    background-color:transparent;
     transition:0.2s;
     color:#fff;
-    display:box;
-    flex:1;
-    margin:0;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 10%;
+    margin:0 10px;
+    cursor: pointer;
 }
 
-.noicehvr:hover{
-    background-color:#fff;
+.noicehvr p {
+  padding: 5px 10px;
+  border-radius: 100px;
+  background-color: transparent;
+  display: flex;
+  color: #434343;
+  font-family: 'Raleway',sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  transition: 0.3s ease-in;
+}
+
+.noicehvr p:hover{
+    background-color:#eeeeee;
     color:#000;
-    border-bottom: 3px solid #3700B3;
+    transition: 0.3s ease-in;
+    /* border-bottom: 3px solid #3700B3; */
 }
 
 .websites{
@@ -79,7 +101,7 @@
 }
 
 .blog {
-  box-shadow:
+  /* box-shadow:
   0 2.8px 2.2px rgba(0, 0, 0, 0.034),
   0 6.7px 5.3px rgba(0, 0, 0, 0.048),
   0 12.5px 10px rgba(0, 0, 0, 0.06),
@@ -88,8 +110,8 @@
   0 100px 80px rgba(0, 0, 0, 0.12)
 ;
 
-  
-  
+   */
+  box-shadow: 5px 5px 10px #eee;
   padding:40px;
   padding-top : 10px;
   min-height: 200px;
@@ -98,10 +120,11 @@
   margin-top:40px;
   margin-bottom:40px;
   background-color:  #efefef;
-  border-radius: 5px;
   word-spacing:auto;
   font-size:17px;
   text-align:justify;
+  border-radius: 10px;
+  font-family: 'Raleway', sans-serif;
 }
 .App-link {
   color: #61dafb;
